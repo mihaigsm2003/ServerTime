@@ -23,8 +23,8 @@ It supports multiple commands, configurable time format, and colored chat messag
 
 ## Installation
 
-1. Compile the plugin to a .dll.  
-2. Copy the .dll to your server:
+1. Download plugin to your server.  
+```addons/counterstrikesharp/plugins/ServerTime/```
 
 3. Start or restart the server.  
 4. The config JSON is automatically created at:
